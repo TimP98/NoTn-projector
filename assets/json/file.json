@@ -1,0 +1,82 @@
+{
+    "Videos": [{
+        "Name": "video1",
+        "Author": "Harland",
+        "Description": "Description",
+        "Barcode": "00001",
+        "Thumbnail": "assets/images/1.jpg",
+        "Video_url": "assets/videos/1.mp4"
+    },
+    {
+        "Name": "video2",
+        "Author": "Sherron",
+        "Description": "Description",
+        "Barcode": "00002",
+        "Thumbnail": "assets/images/2.jpg",
+        "Video_url": "assets/videos/2.mp4"
+    },
+    {
+        "Name": "video3",
+        "Author": "Cathrine",
+        "Description": "Description",
+        "Barcode": "00003",
+        "Thumbnail": "assets/images/3.jpg",
+        "Video_url": "assets/videos/3.mp4"
+    },
+    {
+        "Name": "video4",
+        "Author": "Clair",
+        "Description": "Description",
+        "Barcode": "00004",
+        "Thumbnail": "assets/images/4.jpg",
+        "Video_url": "assets/videos/4.mp4"
+    },
+    {
+        "Name": "video5",
+        "Author": "Carmen",
+        "Description": "Description",
+        "Barcode": "00005",
+        "Thumbnail": "assets/images/5.jpg",
+        "Video_url": "assets/videos/5.mp4"
+    },
+    {
+        "Name": "video6",
+        "Author": "Elizabeth",
+        "Description": "Description",
+        "Barcode": "00006",
+        "Thumbnail": "assets/images/6.jpg",
+        "Video_url": "assets/videos/6.mp4"
+    },
+    {
+        "Name": "video7",
+        "Author": "Kristyn",
+        "Description": "Description",
+        "Barcode": "00007",
+        "Thumbnail": "assets/images/7.jpg",
+        "Video_url": "assets/videos/7.mp4"
+    },
+    {
+        "Name": "video8",
+        "Author": "Elana",
+        "Description": "Description",
+        "Barcode": "00008",
+        "Thumbnail": "assets/images/8.jpg",
+        "Video_url": "assets/videos/8.mp4"
+    },
+    {
+        "Name": "video9",
+        "Author": "Verona",
+        "Description": "Description",
+        "Barcode": "00009",
+        "Thumbnail": "assets/images/9.jpg",
+        "Video_url": "assets/videos/9.mp4"
+    },
+    {
+        "Name": "video10",
+        "Author": "Marguerite",
+        "Description": "Description",
+        "Barcode": "00010",
+        "Thumbnail": "assets/images/1.jpg",
+        "Video_url": "assets/videos/10.mp4"
+    }]
+}

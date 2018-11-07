@@ -1,0 +1,68 @@
+{
+    "Videos": {
+        "Video1": [{
+            "Name": " HKU Animation's",
+            "Author": "HKU",
+            "Description": "Een korte video met mooie animatie's ",
+            "Barcode": "000001",
+            "Thumbnail": "assets/images/1.jpg",
+            "Video_url": "assets/videos/1.mp4"
+        }],
+        "Video2": [{
+            "Name": "Crossdressen",
+            "Author": " Kevin Kok",
+            "Description": " Een indrukwekkende video over crossdressen",
+            "Barcode": "000002",
+            "Thumbnail": "assets/images/2.jpg",
+            "Video_url": "assets/videos/2.mp4"
+        }],
+        "Video3": [{
+            "Name": "video3",
+            "Author": "Joris Weerts",
+            "Description": "Een intro voor een speelfilm over de molotov man",
+            "Barcode": "000003",
+            "Thumbnail": "assets/images/3.jpg",
+            "Video_url": "assets/videos/3.mp4"
+        }],
+        "Video4": [{
+            "Name": "Gaming",
+            "Author": "Carmen",
+            "Description": "Een trailer voor de nieuwste coolste game",
+            "Barcode": "000004",
+            "Thumbnail": "assets/images/4.jpg",
+            "Video_url": "assets/videos/4.mp4"
+        }],
+        "Video5": [{
+            "Name": "Wally's revenge",
+            "Author": "Elizabeth",
+            "Description": "Een video over Wally met super krachten",
+            "Barcode": "000005",
+            "Thumbnail": "assets/images/5.jpg",
+            "Video_url": "assets/videos/5.mp4"
+        }],
+        "Video6": [{
+            "Name": "Panda life",
+            "Author": "Kristyn",
+            "Description": "Een schattig panda beertje komt in aanraking met bellenblaas",
+            "Barcode": "000006",
+            "Thumbnail": "assets/images/6.jpg",
+            "Video_url": "assets/videos/6.mp4"
+        }],
+        "Video7": [{
+            "Name": "Het leven van een struisvogel",
+            "Author": "Elana",
+            "Description": "Struisvogels zijn leuker dan je denkt",
+            "Barcode": "000007",
+            "Thumbnail": "assets/images/7.jpg",
+            "Video_url": "assets/videos/7.mp4"
+        }],
+        "Video8": [{
+            "Name": "Het koraal",
+            "Author": "Verona",
+            "Description": " Beleef de schoonheid van het koraal in de caribbean",
+            "Barcode": "000008",
+            "Thumbnail": "assets/images/8.jpg",
+            "Video_url": "assets/videos/8.mp4"
+        }]
+    }
+}
